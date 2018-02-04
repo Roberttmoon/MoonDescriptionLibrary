@@ -1,0 +1,14 @@
+* Moon Description Library
+** rationality
+This is a collection of descriptions of high level items that may be
+used around various repositories. These could be the blocks of
+web pages or API that are too small to be in their own repositories.
+
+Largely, this is an attempt to unify elements across different
+programs that may use the same concepts or data. Also provides a way
+to explore building and maintain a multi-platform structure.
+
+** Repository structure
+Each element should be in their own folder, for the time being the
+descriptions will be in JSON but that is subject to change depending
+on project needs.

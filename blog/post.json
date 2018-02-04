@@ -1,0 +1,16 @@
+{
+    "PostTitle": "stirng",
+    "PageTitle": "string",
+    "Date": "datetime",
+    "Body": [
+        {
+            "Heading": "string",
+            "HeadingText": [
+                "string",
+                "string",
+                "..."
+            ]
+        }
+    ],
+    "ID": "guid"
+}
