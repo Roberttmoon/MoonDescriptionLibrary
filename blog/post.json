@@ -2,6 +2,7 @@
     "PostTitle": "stirng",
     "PageTitle": "string",
     "Date": "datetime",
+    "Blurb": "string"
     "Body": [
         {
             "Heading": "string",
