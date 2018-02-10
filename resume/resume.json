@@ -1,0 +1,70 @@
+{
+    "PersonalInfo": {
+	"Name": "",
+	"Address": {
+	    "Street": [
+		""
+	    ],
+	    "City": "",
+	    "State": {
+		"Name": "",
+		"ShortName": ""
+	    },
+	    "ZipCode": 0
+	},
+	"Websites": [
+	    ""
+	]
+    },
+    "Summaries": {
+	"SummariesHeading": "",
+	"Summaries": [
+	    {
+		"SummaryName": "",
+		"SummaryBody": ""
+	    }	    
+	]
+    },
+    "Education": {
+	"EducationHedding": "",
+	"EducationLocations": [
+	    {
+		"SchoolName": "",
+		"SchoolDates": {
+		    "start": "",
+		    "finished": "",
+		    "graduated": false
+		},
+		"SchoolDescription": ""
+	    }
+	]
+    },
+    "TechinalSkills": {
+	"TechnicalSkillsHedding": "",
+	"SkillsList": [
+	    ""
+	]
+    },
+    "Projects": {
+	"ProjectHedding": "",
+	"Projects": [
+	    "Name": "",
+	    "ProducedFor": "",
+	    "Description": ""
+	]
+    },
+    "Experence": {
+	"ExperenceHeading": "",
+	"Experences": [
+	    {
+		"InstitutionName": "",
+		"InstitutionDates": {
+		    "Start": "",
+		    "End": "",
+		},
+		"JobTitle": "",
+		"JobDescription": ""
+	    }
+	]
+    }
+}
